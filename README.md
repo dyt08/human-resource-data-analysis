@@ -7,7 +7,8 @@ by Aditya Nugraha
 - Tim HR atau Human Resource dari sebuah perusahaan *e-commerce* terkenal yang beroperasi di wilayah Amerika dan Eropa ingin mengetahui gambaran umum tentang kepegawaian di tempat perusahaannya bekerja. Terdapat sebuah database yang berisi detail karyawan berserta status kepegawaiannya. dari database tersebut, Tim HR ingin bisa mendapatkan *insight* yang dapat dijalankan, sehingga nantinya mereka dapat melakukan kegiatan perekrutan, pemindahan pekerja, penetapan gaji, dan sebagainya dengan efektif jika hal tersebut diperlukan.
 - Database memiliki 7 tabel yang masing-masing memiliki informasi karyawan dan pekerjaannya
 - Dari 7 tabel diambil dan dibagi menjadi 2 dataframe yaitu raw_data yang berisikan 110 baris, 25 kolom, dan job_grades yang berisikan 19 baris dan 11 kolom
-- Tabel ERD:
+- Tabel ERD:  
+
 ![HR ERD](Datasets/HR/HR%20ERD.gif)
 
 - Database Dictionary:
