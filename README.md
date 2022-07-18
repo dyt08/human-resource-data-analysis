@@ -2,6 +2,10 @@
 
 by Aditya Nugraha
 
+<img src="hr-analysis.jpg" alt="image: https://www.freepik.com/vectors/candidate"/>
+
+*Image Source: https://www.freepik.com/vectors/candidate*
+
 ## Data Understanding
 - Sumber Database: https://drive.google.com/file/d/1XfhOHYKzW7Cz1RNHlknJI6Lz7LLSi5EI/view?usp=sharing
 - Tim HR atau Human Resource dari sebuah perusahaan e-commerce terkenal yang beroperasi di wilayah Amerika dan Eropa ingin mengetahui gambaran umum tentang kepegawaian di tempat perusahaannya bekerja. Terdapat sebuah database yang berisi detail karyawan berserta status kepegawaiannya. dari database tersebut, Tim HR ingin bisa mendapatkan gambaran bagaimana kondisi dari perusahaannya bekerja seperti banyaknya karyawan di setiap cabang, besaran dan kesesuaian gaji karyawan di setiap posisinya. 
